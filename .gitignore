@@ -12,3 +12,4 @@ get_started.sh
 census_api_key.txt
 completed_notebooks/*.py
 notebooks/*.py
+census_api_key.txt
